@@ -130,7 +130,7 @@ public class ManageStudent {
         Student s2 = new Student(2, "Sara", 20);
         Student s3 = new Student(3, "Youssef", 21, 16);
         Student s4 = new Student(4, "Salma");
-        Student s5 = new Student(5, "Omar", 19, 18);
+        Student s5 = new Student(5, "Anass", 19, 18);
         Student[] students={s1,s2,s3,s4,s5};
 
         // Print all
